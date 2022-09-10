@@ -1,4 +1,4 @@
-👋 Hi, I’m @Kamorzy
+👋 Hi, I’m [Kamorzy](https://github.com/Kamorzy)
 
 ## Profile
 
