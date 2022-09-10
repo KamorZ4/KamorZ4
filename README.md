@@ -1,4 +1,4 @@
-👋 Hi, I’m [Kamorzy](https://github.com/Kamorzy)
+Hi, I’m Kamorzy [<img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" width=2.5% height=2.5%>](https://www.ko-fi.com/kamorzy)
 
 ## Profile
 
