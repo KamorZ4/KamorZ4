@@ -10,7 +10,7 @@ I create Minecraft resource packs, data packs, and Fabric/Quilt mods. Currently,
 - [PlanetMinecraft](https://www.planetminecraft.com/member/kamorzy/) (_Highest priority for data packs_)
   - Data Packs
   - Resource Packs
-- [GitHub](https://github.com/Kamorzy/) (_Source codes_)
+- [GitHub](https://github.com/Kamorzy/) (_Source codes and issue reporting_)
   - Mods
   - Data Packs
 - [CurseForge](https://www.curseforge.com/members/fuzzimoda/projects) (_Releases commonly delayed_)
