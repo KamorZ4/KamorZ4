@@ -23,6 +23,6 @@ Currently, I host my minecraft projects as follows:
 - [GitHub](https://github.com/Kamorzy/) (_Source codes and issue reporting_)
   - Mods
   - Data Packs
-- [CurseForge](https://www.curseforge.com/members/fuzzimoda/projects) (_Releases commonly delayed_)
+- [CurseForge](https://www.curseforge.com/members/fuzzimoda/projects) (_Releases sometimes delayed_)
   - Mods
   - Resource Packs
