@@ -10,6 +10,7 @@ I currently try to stay close to vanilla-plus designs, sometimes fixing "issues"
 - Resource Packs
   - [Invisible Armor for Players (Only)](https://modrinth.com/resourcepack/invisible-armor-for-players-only)
   - [Darker Iron](https://modrinth.com/resourcepack/darker-iron)
+  - [Daedric Enchanting Text](https://modrinth.com/resourcepack/daedric-enchanting-text)
 
 ## Hosting Sites
 Currently, I host my minecraft projects as follows:
