@@ -15,10 +15,10 @@ I currently try to stay close to vanilla-plus designs, sometimes fixing "issues"
 ## Hosting Sites
 Currently, I host my minecraft projects as follows:
 
-- [Modrinth](https://modrinth.com/user/Kamorzy) (_Highest priority for mods and resource packs_)
+- [Modrinth](https://modrinth.com/user/Kamorzy) (_Highest priority for mods_)
   - Mods
   - Resource Packs
-- [PlanetMinecraft](https://www.planetminecraft.com/member/kamorzy/) (_Highest priority for data packs_)
+- [PlanetMinecraft](https://www.planetminecraft.com/member/kamorzy/) (_Highest priority for resource packs and data packs_)
   - Data Packs
   - Resource Packs
 - [GitHub](https://github.com/Kamorzy/) (_Source codes and issue reporting_)
