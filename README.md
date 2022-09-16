@@ -7,6 +7,9 @@ I create Minecraft resource packs, data packs, and Fabric/Quilt mods.
 I currently try to stay close to vanilla-plus designs, sometimes fixing "issues" I have with vanilla or making modest additions and QoL changes. Overhauls are reserved for features that are so poorly designed imo that I avoid them entirely in my games, regardless of how beneficial they are.
 
 ## Current Releases
+- Mods
+  - [Amethyst Tools](https://modrinth.com/mod/amethyst-tools)
+
 - Resource Packs
   - [Invisible Armor for Players (Only)](https://modrinth.com/resourcepack/invisible-armor-for-players-only)
   - [Darker Iron](https://modrinth.com/resourcepack/darker-iron)
