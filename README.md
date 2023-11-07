@@ -7,8 +7,8 @@ I create Minecraft resource packs, data packs, and Fabric/Quilt mods.
 For mods, I mostly stick to vanilla-like designs, filling niches that vanilla features don't cover. The design philophy for my content is roughly:
   - Smooth out progression (usually designed for early-mid game)
   - Encourage more player engagement in vanilla gameplay
-  - Maintains and enhances the value of vanilla features
-  - Incentivizes more thought and optimization on the players' parts
+  - Maintain and enhance the value of vanilla features
+  - Incentivize more thought and optimization on the players' parts
 
 My releases can be found on:
   - [Modrinth](https://modrinth.com/user/Kamorzy)
