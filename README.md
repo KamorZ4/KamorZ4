@@ -4,30 +4,15 @@ Hi, I’m Kamorzy [<img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" 
 
 I create Minecraft resource packs, data packs, and Fabric/Quilt mods.
 
-I currently try to stay close to vanilla-plus designs, sometimes fixing "issues" I have with vanilla or making modest additions and QoL changes. Overhauls are reserved for features that are so poorly designed imo that I avoid them entirely in my games, regardless of how beneficial they are.
+For mods, I mostly stick to vanilla-like designs, filling niches that vanilla features don't cover. The design philophy for my content is roughly:
+  - Smooth out progression (usually designed for early-mid game)
+  - Encourage more player engagement in vanilla gameplay
+  - Maintains and enhances the value of vanilla features
+  - Incentivizes more thought and optimization on the players' parts
 
-## Current Releases
-- Mods
-  - [Amethyst Tools](https://modrinth.com/mod/amethyst-tools)
-
-- Resource Packs
-  - [Invisible Armor for Players (Only)](https://modrinth.com/resourcepack/invisible-armor-for-players-only)
-  - [Darker Iron](https://modrinth.com/resourcepack/darker-iron)
-  - [Daedric Enchanting Text](https://modrinth.com/resourcepack/daedric-enchanting-text)
-
-## Hosting Sites
-Currently, I host my minecraft projects as follows:
-
-- [Modrinth](https://modrinth.com/user/Kamorzy) (_Highest priority_)
-  - Mods
-  - Data Packs
-  - Resource Packs
-- [PlanetMinecraft](https://www.planetminecraft.com/member/kamorzy/)
-  - Data Packs
-  - Resource Packs
-- [GitHub](https://github.com/Kamorzy/) (_Source codes and issue reporting_)
-  - Mods
-  - Data Packs
+My releases can be found on:
+  - [Modrinth](https://modrinth.com/user/Kamorzy)
+  - [Planet Minecraft](https://www.planetminecraft.com/member/kamorzy/)
 
 ## Credits
 _Profile picture created by Freepik (https://www.flaticon.com/free-icons/chemist)_
